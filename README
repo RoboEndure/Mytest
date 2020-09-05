@@ -1,8 +1,9 @@
 test github on ubntu 18.04
 
 create or open file > gedit <file name with extenntion>
-  <folder>$ git commit -m "commit"
-  <folder>$ git remote add origin https://github.com/roboendure/<folder name>.git
-  <folder>$ git push origin master
+<folder>$ git add <file name>  
+<folder>$ git commit -m "commit"
+<folder>$ git remote add origin https://github.com/roboendure/<folder name>.git
+<folder>$ git push origin master
  
 fine
